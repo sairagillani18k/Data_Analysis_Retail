@@ -1,4 +1,4 @@
-# Data_Analysis_Retail
+# Drag and Drop Tables
 
 Drag and drop Pivot Tables and Charts for Jupyter/IPython Notebook
 
